@@ -1,0 +1,17 @@
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.exe
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.pdb
+C:\Users\sanro\OneDrive\Escritorio\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe.config
+C:\Users\sanro\OneDrive\Escritorio\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.exe
+C:\Users\sanro\OneDrive\Escritorio\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\20180628-SP.v1.pdb
+C:\Users\sanro\OneDrive\Escritorio\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\Entidades.dll
+C:\Users\sanro\OneDrive\Escritorio\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\Entidades.pdb
+C:\Users\sanro\OneDrive\Escritorio\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.Alumno.csprojAssemblyReference.cache
+C:\Users\sanro\OneDrive\Escritorio\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\_20180628_SP.v1.FrmSenadores.resources
+C:\Users\sanro\OneDrive\Escritorio\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\_20180628_SP.v1.Properties.Resources.resources
+C:\Users\sanro\OneDrive\Escritorio\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.Alumno.csproj.GenerateResource.cache
+C:\Users\sanro\OneDrive\Escritorio\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.Alumno.csproj.CoreCompileInputs.cache
+C:\Users\sanro\OneDrive\Escritorio\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.Alumno.csproj.CopyComplete
+C:\Users\sanro\OneDrive\Escritorio\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.exe
+C:\Users\sanro\OneDrive\Escritorio\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\obj\Debug\20180628-SP.v1.pdb
+C:\Users\sanro\OneDrive\Escritorio\20180628-SP\20180628-SP - Alumno\20180628-SP.v1\bin\Debug\Entidades.dll.config
